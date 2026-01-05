@@ -1,0 +1,6 @@
+problem_id,rating,topic,verdict,time_taken
+1234A,1200,dp,WA,18
+1235B,900,implementation,AC,7
+1236C,1200,dp,AC,22
+1237D,1400,graphs,WA,30
+1238E,900,implementation,AC,5
