@@ -26,6 +26,6 @@ A sample sample.csv file is included to demonstrate the expected input format.
 Built as part of my ICPC preparation to systematically analyze performance and improve weak areas.
 
 ## Future Improvements
-Practice streak and consistency tracking
-Graph-based visualizations
-Support for multiple platforms (Codeforces, AtCoder, LeetCode)
+- Practice streak and consistency tracking
+- Graph-based visualizations
+- Support for multiple platforms (Codeforces, AtCoder, LeetCode)
